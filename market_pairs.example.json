@@ -1,0 +1,14 @@
+[
+  {
+    "name": "EXAMPLE-fed-rate-decision",
+    "poly_slug": "fed-decision-in-may",
+    "kalshi_ticker": "FED-26MAY",
+    "note": "Check resolution criteria match before trusting spread as real arb"
+  },
+  {
+    "name": "EXAMPLE-btc-above-price",
+    "poly_slug": "will-btc-hit-120k-by-end-of-month",
+    "kalshi_ticker": "KXBTC-26-120K",
+    "note": "Time windows and reference price source may differ between platforms"
+  }
+]

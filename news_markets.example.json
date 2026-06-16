@@ -1,0 +1,17 @@
+[
+  {
+    "slug": "fed-decision-in-may-2026",
+    "keywords": ["fed", "rate"],
+    "note": "Matches both 'Fed cuts rates' and 'Fed holds rate'"
+  },
+  {
+    "slug": "will-btc-hit-120k-by-end-of-month",
+    "keywords": ["bitcoin", "btc"],
+    "note": "Crypto-specific feeds (CoinDesk) will dominate matches"
+  },
+  {
+    "slug": "trump-announces-new-tariff-before-may",
+    "keywords": ["trump", "tariff"],
+    "note": "Strict AND match: both words must appear"
+  }
+]
